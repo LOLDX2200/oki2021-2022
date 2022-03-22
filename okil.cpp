@@ -2,6 +2,6 @@
 using namespace std;
 
 int main() {
-	cout << "LOL_DX"
+	cout << "OKI"
 	return 0;
 }
